@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+}
+#canvas {
+	height: 100vh;
+	width: 100%;
+	background: url('night-sky.jpg');
+	background-size: cover;
+}
