@@ -1,9 +1,9 @@
-body {
-	margin: 0;
+html, body {
+  width:  100%;
+  height: 100%;
+  margin: 0px;
 }
 #canvas {
-	height: 100vh;
-	width: 100%;
 	background: url('night-sky.jpg');
 	background-size: cover;
 }
